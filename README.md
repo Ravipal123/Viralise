@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-[live demo]("https://guileless-shortbread-024345.netlify.app/")
+-live demo("https://guileless-shortbread-024345.netlify.app/")
 
 Currently, two official plugins are available:
 
